@@ -33,12 +33,12 @@
 *.css linguist-documentation=false
 *.css linguist-language=CSS
 # OASv2-yaml source
-# *.yml linguist-detectable=true
-# *.yml linguist-documentation=false
-# *.yml linguist-language=OASv2-yaml
-# *.yaml linguist-detectable=true
-# *.yaml linguist-documentation=false
-*# .yaml linguist-language=OASv2-yaml
+*.yml linguist-detectable=true
+*.yml linguist-documentation=false
+*.yml linguist-language=OASv2-yaml
+*.yaml linguist-detectable=true
+*.yaml linguist-documentation=false
+*.yaml linguist-language=OASv2-yaml
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -174,7 +174,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2025, Monday, July 7th at 10:24 pm PST)
+# File version: 6 (2025, Monday, July 7th at 10:25 pm PST)
 # Line count (including blank lines and compiler line): 181
 
 # End of script
